@@ -1,0 +1,9 @@
+[submodule "skylight-photography-frontend"]
+	path = skylight-photography-frontend
+	url = https://github.com/LochlanOdlum/skylight-photography-frontend
+[submodule "skylight-photography-backend"]
+	path = skylight-photography-backend
+	url = https://github.com/LochlanOdlum/skylight-photography-backend
+[submodule "skylight-photography-admin-panel"]
+	path = skylight-photography-admin-panel
+	url = https://github.com/LochlanOdlum/skylight-photography-admin-panel
